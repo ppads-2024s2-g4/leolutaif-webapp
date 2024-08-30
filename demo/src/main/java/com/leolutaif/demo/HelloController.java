@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.leolutaif.demo;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
